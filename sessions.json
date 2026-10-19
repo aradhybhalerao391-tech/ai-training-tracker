@@ -1,0 +1,12 @@
+[
+    {
+        "model": "Neutral Network",
+        "epochs": 20,
+        "accuracy": 94.5
+    },
+    {
+        "model": "CNN",
+        "epochs": 30,
+        "accuracy": 87.2
+    }
+]
